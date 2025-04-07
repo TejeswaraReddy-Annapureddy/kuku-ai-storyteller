@@ -5,8 +5,8 @@ KukuBot is an AI-powered storytelling feature for Kuku FM that creates personali
 ## 🗂 Project Structure
 
 kuku-ai-storyteller/ 
-├── prototype/ ← interactive mockup (HTML) 
-├── proposal/ ← 4-page proposal PDF 
+├── prototype/ ← interactive mockup (HTML)
+├── proposal/ ← 4-page proposal PDF
 └── README.md ← this file!
 
 
