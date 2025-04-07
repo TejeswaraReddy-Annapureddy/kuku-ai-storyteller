@@ -10,6 +10,18 @@ This project aims to **elevate user engagement**, **boost retention**, and creat
 
 ---
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://tejeswarareddy-annapureddy.github.io/kuku-ai-storyteller/" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Try%20KukuBot%20Now-Click%20Here-blueviolet?style=for-the-badge" alt="Live Demo" />
+  </a>
+</p>
+
+> 🔗 [Launch the Live Demo](https://tejeswarareddy-annapureddy.github.io/kuku-ai-storyteller/)
+
+---
+
 ## 🎯 Vision & Objective
 
 > What if a story *knew how you felt*... and spoke to you exactly how you needed to hear it?
@@ -51,18 +63,6 @@ Designed to:
 - **TTS Engines** (Google Cloud TTS / Amazon Polly)
 - **Kuku FM Personalization Engine**
 - Mood & preference-based content intelligence
-
----
-
-## 🌐 Live Demo
-
-<p align="center">
-  <a href="https://tejeswarareddy-annapureddy.github.io/kuku-ai-storyteller/" target="_blank">
-    <img src="https://img.shields.io/badge/👉%20Try%20KukuBot%20Now-Click%20Here-blueviolet?style=for-the-badge" alt="Live Demo" />
-  </a>
-</p>
-
-> 🔗 [Launch the Live Demo](https://tejeswarareddy-annapureddy.github.io/kuku-ai-storyteller/)
 
 ---
 
