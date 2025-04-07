@@ -7,6 +7,7 @@
 It brings **interactive, personalized storytelling experiences** to life, adjusting to the user's **mood**, **genre preference**, and **narrator voice** — all with the magic of AI.
 
 This project aims to **elevate user engagement**, **boost retention**, and create an **emotional connect** with listeners through immersive, voice-driven stories.
+> 📥 [Click here to view the KukuBot Feature Proposal (PDF)](proposal/KukuBot-Proposal.pdf)
 
 ---
 
@@ -26,7 +27,7 @@ This project aims to **elevate user engagement**, **boost retention**, and creat
 
 > What if a story *knew how you felt*... and spoke to you exactly how you needed to hear it?
 
-KukuBot lets users:
+KukuBot allows users to:
 - **Pick a genre** (Thriller, Romance, Motivational, Sci-Fi)
 - **Set their current mood**
 - **Choose a narrator's voice**
@@ -71,9 +72,8 @@ Designed to:
 ```bash
 kuku-ai-storyteller/
 ├── proposal/
-│   └── KukuBot-Proposal.pdf       # 📄 4-Page Feature Proposal
-├── prototype/
-│   └── index.html                 # 🎨 Fully Interactive UI Mockup
+│   └── KukuBot-Proposal.pdf       # 📄 Proposed Documentation
+├── index.html                     # 🎨 Fully Interactive UI Mockup
 └── README.md                      # 📘 You're looking at it!
 ```
 
@@ -117,14 +117,22 @@ kuku-ai-storyteller/
 
 ## 📬 Contact
 
-**Tejeswara Reddy A**  
-📧 [tejeswarareddy321@gmail.com](mailto:tejeswarareddy321@gmail.com)  
+**Tejeswara Reddy Annapureddy**  
+📧 [tejeswarreddy134@gmail.com](mailto:tejeswarreddy134@gmail.com)  
 🔗 [GitHub Profile](https://github.com/TejeswaraReddy-Annapureddy)
 
 ---
 
 ## 🙌 Special Thanks
 
-- 💡 **Team Kuku FM** for inspiring this visionary concept  
-- 🔍 **OpenAI & Google Cloud** for accessible AI and TTS tech  
-- ❤️ Everyone who believes in the power of storytelling  
+- 💼 **Kuku FM Team** – for giving the opportunity and inspiration to build this feature prototype  
+- 🧠 **OpenAI & Google Cloud** – for the powerful tools that fuel creativity and voice synthesis  
+- 👥 All creators, dreamers, and listeners – who believe that stories can shape the world
+
+---
+
+## ⚖️ Disclaimer
+
+This project is **not officially licensed** and was developed as part of a **creative task assigned by Kuku FM**  
+It is a **conceptual prototype** built solely for demonstration purposes.
+
