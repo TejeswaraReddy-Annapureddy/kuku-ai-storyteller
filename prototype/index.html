@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KukuBot - AI Storyteller Mockup</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 500px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+    h1 {
+      text-align: center;
+      color: #E62E2E;
+    }
+    .section {
+      margin: 20px 0;
+    }
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+    select, input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #E62E2E;
+      color: white;
+      padding: 12px;
+      width: 100%;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .story-output {
+      background: #f0f0f0;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>KukuBot</h1>
+    <div class="section">
+      <label for="genre">Choose Genre</label>
+      <select id="genre">
+        <option>Thriller</option>
+        <option>Romance</option>
+        <option>Motivational</option>
+        <option>Sci-Fi</option>
+      </select>
+    </div>
+
+    <div class="section">
+      <label for="mood">Your Current Mood</label>
+      <select id="mood">
+        <option>Happy</option>
+        <option>Sad</option>
+        <option>Curious</option>
+        <option>Energetic</option>
+      </select>
+    </div>
+
+    <div class="section">
+      <label for="voice">Preferred Narrator Voice</label>
+      <select id="voice">
+        <option>Male - Deep</option>
+        <option>Female - Calm</option>
+        <option>Neutral - Fast</option>
+      </select>
+    </div>
+
+    <div class="section">
+      <button onclick="generateStory()">Generate Story</button>
+    </div>
+
+    <div class="section story-output" id="story">
+      <strong>Your AI-Generated Story will appear here...</strong>
+    </div>
+  </div>
+
+  <script>
+    function generateStory() {
+      const genre = document.getElementById('genre').value;
+      const mood = document.getElementById('mood').value;
+      const voice = document.getElementById('voice').value;
+
+      const story = `Here's a ${mood.toLowerCase()} and engaging ${genre.toLowerCase()} story narrated in a ${voice.toLowerCase()} voice: \n\n"It was a quiet evening until..."`;
+      document.getElementById('story').innerText = story;
+    }
+  </script>
+</body>
+</html>
