@@ -1,9 +1,5 @@
-# 🎙️ Kuku AI Storyteller — Powered by Generative AI  
+# 🎙️ KukuBot AI Storyteller — Powered by Generative AI  
 *“Your Mood. Your Story. Your Voice.”*
-
-![HTML](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-blue)
-![Live Demo](https://img.shields.io/badge/Try%20Live-Demo-green)
-![Hackathon](https://img.shields.io/badge/Submitted%20To-Walmart%20Sparkathon-orange)
 
 ---
 
