@@ -31,9 +31,37 @@ Hosted on **Kuku FM**, this feature aims to boost daily engagement by offering p
 
 ## 📁 Project Structure
 
-kuku-ai-storyteller/ 
-│ 
-├── index.html # Frontend prototype
+
+kuku-ai-storyteller/
+│
 ├── proposal/
-│ └── KukuBot-Proposal.pdf
-└── README.md # You are here!
+│   └── KukuBot-Proposal.pdf       ← (Proposal Documentation)
+│
+├── prototype/
+│   └── index.html                 ← (the built mockup — a working mini app)
+│
+└── README.md                      ← A handwritten label to know what’s inside
+
+
+
+---
+
+## 🌐 Live Demo
+
+> 🔗 [View on GitHub Pages](https://tejeswarareddy-annapureddy.github.io/kuku-ai-storyteller/)
+
+---
+
+## 📌 Future Scope
+
+- Integrate backend with GPT-style APIs for story generation
+- Use TTS (like Google Cloud Text-to-Speech) to convert story to audio
+- Save favorites, download audio, personalize narrator voices
+- Push notifications based on mood & engagement
+
+---
+
+## 📬 Contact
+
+**Tejeswara Reddy A**  
+[GitHub](https://github.com/TejeswaraReddy-Annapureddy)
